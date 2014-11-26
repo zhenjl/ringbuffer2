@@ -20,5 +20,19 @@ _cgo_export.*
 _testmain.go
 
 *.exe
-*.test
+
+.idea
+*.iml
+
+*.swp
+*.un~
+
+.DS_Store
+
+*.pprof
 *.prof
+*.test
+*.out
+
+*.sublime-project
+*.sublime-workspace
